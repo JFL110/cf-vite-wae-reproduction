@@ -1,0 +1,11 @@
+{
+    "name": "cf-vite-wae-reproduction",
+    "compatibility_date": "2025-04-03",
+    "main": "./src/index.ts",
+    "analytics_engine_datasets": [
+        {
+            "binding": "CLUSTER_WAE",
+            "dataset": "CLUSTER_WAE_LOCAL"
+        }
+    ]
+}
